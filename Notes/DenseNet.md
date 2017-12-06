@@ -54,3 +54,4 @@ $x_l$ :== the output of $l^{th}$ layers
 	- DenseNet-C
 		- $\theta = 0.5$
 - Implementation Details
+
