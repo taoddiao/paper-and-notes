@@ -19,7 +19,7 @@
 - inception modules, max pool($3\times3$, stride 2)
 - inception modules, global average pool($7\times7$)
 - dropout(0.4), linear, softmax
-- add auxiliary classifers 
+- add auxiliary classifiers 
 	- encourage discrimination in lower stages (refering to inception v3 this may be wrong)
 	- increase the gradient signal
 	- provide regulariztion
